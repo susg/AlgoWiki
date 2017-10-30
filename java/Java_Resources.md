@@ -602,5 +602,6 @@ All about Java frameworks, libraries and software.
 * [Vanilla Java](http://vanillajava.blogspot.ch/)
 * [Vlad Mihalcea on Hibernate](http://vladmihalcea.com/)
 * [Voxxed](https://www.voxxed.com/)
+* [JavaTPoint](https://www.javatpoint.com/java-tutorial/)
 
 
